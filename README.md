@@ -81,4 +81,5 @@ If the pack is just not working or it keeps deleting itself, use prism launcher 
 # Instructional video:
 
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/pBwr6mhXHhY" title="HYPNOPHOBIA map download tutorial yay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
