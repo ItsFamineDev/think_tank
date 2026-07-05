@@ -3,6 +3,8 @@ This is the OFFICIAL Github by "ItsFamineDev" for the Hypnophobia [THINK TANK] M
 
 This map supports multiplayer!!
 
+**Command Stuff**
+
 ```
 ---If you want to skip the maze:---
 
