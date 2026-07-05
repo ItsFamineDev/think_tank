@@ -3,7 +3,8 @@ This is the OFFICIAL Github by "ItsFamineDev" for the Hypnophobia [THINK TANK] M
 
 
 
-```---If you want to skip the maze:---
+```
+---If you want to skip the maze:---
 
 first hit the wind chime, then run this command
 
@@ -20,4 +21,5 @@ first hit the wind chime, then run this command
 
 3.
 
-go back to the dock and fish up or drop a puffer fish on the ground```
+go back to the dock and fish up or drop a puffer fish on the ground
+```
