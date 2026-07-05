@@ -73,3 +73,11 @@ Tp to limbo
 If you are struggling loading the world, try doing less ram like 6k, if you do too much ram it’ll max out and seem like it’s not working
 
 If the pack is just not working or it keeps deleting itself, use prism launcher instead, it should be able to run modrinth packs, just remember to still dedicate enough ram and stuff like that
+
+# DEDICATE 6-8k RAM INSTEAD, 8-16 IS TOO MUCH AND MIGHT CAUSE ISSUES
+# make sure to disable axiom and if you are in singleplayer enable open to LAN
+
+
+Instructional video:
+
+https://www.youtube.com/watch?v=pBwr6mhXHhY
