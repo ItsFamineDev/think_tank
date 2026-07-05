@@ -78,6 +78,6 @@ If the pack is just not working or it keeps deleting itself, use prism launcher 
 # make sure to disable axiom and if you are in singleplayer enable open to LAN
 
 
-Instructional video:
+# Instructional video:
 
-https://www.youtube.com/watch?v=pBwr6mhXHhY
+<iframe width="1863" height="754" src="https://www.youtube.com/embed/pBwr6mhXHhY" title="HYPNOPHOBIA map download tutorial yay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
