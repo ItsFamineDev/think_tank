@@ -80,6 +80,6 @@ If the pack is just not working or it keeps deleting itself, use prism launcher 
 
 # Instructional video:
 
+[![Click here!](https://img.youtube.com/vi/pBwr6mhXHhY/0.jpg)](https://www.youtube.com/watch?v=pBwr6mhXHhY)
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
